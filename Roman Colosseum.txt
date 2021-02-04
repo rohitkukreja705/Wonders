@@ -1,0 +1,41 @@
+<html>
+<head>
+<style>
+.button {
+		background-color: #cc0033;
+		border: none;
+		color: white;
+		padding: 15px 25px;
+		text-align: center;
+		text-decoration: none;
+		display; inline-block;
+		font-size: 16px
+		margin: 4px 2px;
+		shadow: 2px 2px
+		} 
+</style>
+</head>
+<h1><b><i><center><font size="43">Roman Colosseum</font></center></i></b></h1>
+<body background="https://i2.wp.com/tarangnitc.org/wp-content/uploads/2017/08/Plain-White-Background-Wallpaper-Hd.jpg">
+<p align="right">
+<a href="index.html" target="_self" class="button">Home</a>
+</p>
+<table>
+<tr>
+<td>
+<img src="http://travel.home.sndimg.com/content/dam/images/travel/fullset/2015/10/12/new-seven-wonders-roman-coloesseum.jpg.rend.hgtvcom.616.462.suffix/1491581548881.jpeg" width="600" height="400">
+</td>
+<td>
+<p><font color="Black"><h3>
+This is the main attraction for seeing in Rome. Its construction started in 72 AD, which was completed in 80 AD. This huge oval shape was made from concrete and sand. This old architecture is still making its place in the Seven Wonders of the World.
+Natural disaster, this collapsed a bit with the earthquake, but its magnitude is still the same today. Here 50 thousand to 80 thousand people can sit. Here different events took place e.g. the battle of animals, sports jumps, cultural programs.
+It is spread over an area of 24 thousand square meters. Trying to make this type of shape was done by many engineers, but this is a kind of puzzle, which has not been solved till date.
+Giant 50,000 seat amphitheater in the center of Rome was built over 2,000 years ago, and still influences the design of sports stadiums throughout the world.</font></p>
+<p><h2>Facts</h2>
+<li>It was used for many years as a stage for gladiator contests, group combats, battle re-enactments and other productions were performed to audiences of between 50,000 and 80,000 spectators.<li> The Taj Mahal attracts 7–8 million visitors a year.</li></h3>
+<li>Over the years it has undergone structural work and battled the elements and to this date is one of Rome’s most popular tourist attractions.
+</li>
+</p></td>
+</tr>
+</body>
+</html>
